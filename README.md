@@ -44,9 +44,7 @@ The files included in this project are:
 * Image Classifier Project.ipynb, Jupyter notebook with the python code for the whole application
 * train.py, command line application that loads a pre-trained network ('vgg13', 'vgg11', 'vgg13', 'vgg16', 'vgg19') and trains a classifier on the images in the "train", "valid" and "test" data directories. Then it saves the checkpoint of the trained network
 * predict.py, command line application that predicts class if images in a image directory:
-usage: predict.py [-h] [--topk TOPK] [--category_names  CATEGORY_NAMES]
-                  [--gpu]
-                  input checkpoint
+* cat_to_name.json, JSON object that gives a dictionary mapping the integer encoded categories to the actual names of the flowers.
 
 
 ## Limitations<a name="limitations"></a>
