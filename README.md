@@ -5,10 +5,11 @@
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+2. [Usage](#usage)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+5. [Limitations](#limitations)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 The code in this project is written in Python 3.6.6 :: Anaconda custom (64-bit).  
